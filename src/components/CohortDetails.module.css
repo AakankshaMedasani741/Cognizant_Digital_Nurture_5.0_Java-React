@@ -1,0 +1,30 @@
+/**
+ * @author Aakanksha Medasani
+ * @email medasaniaakanksha01@gmail.com
+ * @git https://github.com/Aakanksha cognizant-
+ * © 2026 Aakanksha Medasani. All rights reserved.
+ */
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  vertical-align: top;
+  background-color: #ffffff;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.box dt {
+  font-weight: 500;
+  margin-top: 5px;
+  color: #34495e;
+}
+
+.box dd {
+  margin-left: 0;
+  margin-bottom: 10px;
+  color: #7f8c8d;
+}
